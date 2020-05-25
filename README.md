@@ -7,7 +7,7 @@ You should work in groups of 2 to 4 (not alone and not more than 4). If this is 
 ### Please enter the names of the group members here:
 1. Amanda Markee
 1. Lillian Hendrick
-1. Yash Sondhi
+1. Yash Sondhi cont
 1. Why wont you push - seriously, please push
 
 ## Due date
