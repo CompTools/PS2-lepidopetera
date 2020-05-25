@@ -13,4 +13,6 @@ egrep -c \[0-9]{4}-[0-9]*-[0-9]*,.[0-9]*,\"GNV\" GNV_flight_data.txt
 # 2157 total flights departing GNV.
 
 
-
+#Saves the total number of flights that depart from GNV. This will be used to
+#manipulate the rest of the table
+egrep \[0-9]{4}-[0-9]*-[0-9]*,.[0-9]*,\"GNV\" GNV_flight_data.txt > GNV_departure_flight_data.txt 
